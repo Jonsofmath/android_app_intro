@@ -1,4 +1,4 @@
-# android_app_intro
+# Aplicación Android
 
 <h1> Laboratorio 6: aplicación Android introductoria </h1>
 <p> Estudiante: Jonathan Ramírez Hernández, B55730 </p>
